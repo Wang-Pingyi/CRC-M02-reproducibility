@@ -1,5 +1,7 @@
 # CRC M02 cross-dataset reproducibility package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21743195.svg)](https://doi.org/10.5281/zenodo.21743195)
+
 This repository is the public reproducibility package for **“Exploratory cross-dataset evaluation of a locked FAP/adenoma-associated epithelial stem/progenitor transcriptional module.”** It was assembled from the Stage 11C release candidate on 2026-08-01. It contains no raw expression matrices, FASTQ, CEL, H5/H5AD, RDS, caches, credentials, SSH keys, or directly identifying participant information.
 
 ## Scientific scope
@@ -32,4 +34,6 @@ The frozen Stage 11A manifest contains 565 entries across 26 stage labels. Raw d
 - Software and analysis scripts are released under the MIT License (`LICENSE`).
 - Original project documentation and small source-data tables are released under CC BY 4.0 (`LICENSE-DATA.md`).
 - Third-party datasets, repository metadata and reproduced source material remain under their original terms; this repository does not relicense or redistribute the raw public datasets.
-- Citation metadata are provided in `CITATION.cff`. Use the Zenodo DOI in the repository release metadata once the archive is registered.
+- Citation metadata and the archived release DOI are provided in `CITATION.cff`.
+
+The archived v1.0.1 release is available at https://doi.org/10.5281/zenodo.21743195. The concept DOI for all versions is https://doi.org/10.5281/zenodo.21743194.
