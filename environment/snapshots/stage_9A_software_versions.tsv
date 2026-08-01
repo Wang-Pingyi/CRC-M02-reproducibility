@@ -1,0 +1,8 @@
+package	version
+R	4.3.2
+oligo	1.66.0
+pd.hta.2.0	3.12.2
+hta20transcriptcluster.db	8.8.0
+AnnotationDbi	1.64.1
+Biobase	2.62.0
+matrixStats	1.2.0

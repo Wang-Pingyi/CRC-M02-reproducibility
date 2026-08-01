@@ -1,0 +1,7 @@
+{
+  "generated_utc": "2026-08-01T10:39:56.269537+00:00",
+  "git_commit_at_build": "1bffa3ba5da44041771c838ae402fec37d95855d",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "platform": "win32",
+  "note": "Runtime used only to assemble and verify the release candidate; analytical environments are in snapshots/."
+}

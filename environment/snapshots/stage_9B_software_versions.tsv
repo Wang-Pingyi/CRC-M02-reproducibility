@@ -1,0 +1,8 @@
+package	version
+R	4.3.2
+glmnet	4.1.8
+Matrix	1.6.5
+matrixStats	1.2.0
+pROC	1.18.5
+ggplot2	3.4.4
+digest	0.6.33

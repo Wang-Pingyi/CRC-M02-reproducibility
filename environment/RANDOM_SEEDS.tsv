@@ -1,0 +1,120 @@
+source_file	line	declaration
+config/06A_amendment_parameters.tsv	2	"random_seed	20260728	Fixed before amendment execution"
+config/06A_pseudobulk_parameters.tsv	2	"random_seed	20260728	Fixed project-stage seed"
+config/06B_regulatory_parameters.tsv	2	"global	random_seed	20260728	Reproducible deterministic analysis"
+config/07_replication_parameters.tsv	2	"global	random_seed	20260728	integer	reproducibility	Fixed before validation outcomes are inspected"
+config/08B_bulk_validation_parameters.tsv	3	"random_seed	20260729	Fixed before analysis"
+config/10C_fap_confounding_parameters.tsv	2	"random_seed	20260731	Frozen before Stage 10C execution."
+config/annotation_parameters.tsv	2	"global	random_seed	20260727	integer	reproducibility	Fixed Stage 5C seed"
+config/qc_parameters.tsv	2	"global	ALL	random_seed	20260726	integer	reproducibility	Fixed project seed	5A"
+config/stage10d_tech_parameters.tsv	6	"identity	seed	20260731	all stochastic procedures	TRUE"
+config/stage10d_tech_parameters.tsv	15	"score	minimum_coverage_panels	100	seeded 22-of-30 panels; no panel selection	TRUE"
+config/stage10e_desc_parameters.tsv	5	"seed	20260731	Frozen Stage 10 spatial seed"
+config/stage10e_parameters.tsv	2	"seed	20260731	Frozen Stage 10 spatial seed."
+config/stage10e_r_parameters.tsv	2	"seed	20260731	Frozen deterministic seed"
+results/stage10c2_sp/STAGE10C2_SP_LOCK_MANIFEST.tsv	5	"random_seed	STAGE10_SPATIAL_SEED	20260731	557670b7b82e2c019f6e58bba7d74963bcaa27f040d03ff42e38e0cc5cba7907	FROZEN	Applies to all stochastic technical procedures and negative controls."
+results/stage10e_desc/STAGE10E_DESC_RUN_MANIFEST.tsv	1	"run_id	patient_id	slide_or_capture_id	h5_sha256	roi_sha256	qc_sha256	common_geneset_sha256	plan_sha256	seed	biological_patient_n	stage10f_started	stage10g_started"
+scripts/05A_qc_pilot.R	12	set.seed(20260726)
+scripts/05A_qc_pilot.R	264	"""seed=20260726"","
+scripts/05B_full_qc_integration.R	35	set.seed(seed)
+scripts/05B_full_qc_integration.R	187	set.seed(seed + i)
+scripts/05B_full_qc_integration.R	376	seed = seed,
+scripts/05B_full_qc_integration.R	397	seed = seed,
+scripts/05B_full_qc_integration.R	461	set.seed(seed)
+scripts/05B_full_qc_integration.R	468	set.seed(seed)
+scripts/05B_full_qc_integration.R	629	"paste0(""seed="", seed),"
+scripts/05B_resume_postprocess.R	31	set.seed(seed)
+scripts/05B_resume_postprocess.R	117	set.seed(seed)
+scripts/05B_resume_postprocess.R	275	"paste0(""seed="", seed),"
+scripts/05C_apply_major_epithelial_discovery.R	50	set.seed(seed)
+scripts/05C_apply_major_epithelial_discovery.R	156	seed = seed,
+scripts/05C_apply_major_epithelial_discovery.R	232	random.seed = seed,
+scripts/05C_apply_major_epithelial_discovery.R	259	random.seed = seed,
+scripts/05C_apply_major_epithelial_discovery.R	531	seed = seed,
+scripts/05C_apply_major_epithelial_discovery.R	553	"paste0(""seed="", seed),"
+scripts/05C_audit_epithelial_integration.R	37	set.seed(seed)
+scripts/05C_audit_epithelial_integration.R	63	set.seed(seed)
+scripts/05C_audit_epithelial_integration.R	78	set.seed(seed)
+scripts/05C_finalize_annotations.R	52	set.seed(seed)
+scripts/05C_finalize_annotations.R	391	seed = seed,
+scripts/05C_finalize_annotations.R	414	"paste0(""seed="", seed),"
+scripts/05C_major_annotation_discovery.R	49	set.seed(seed)
+scripts/05C_major_annotation_discovery.R	80	random.seed = seed,
+scripts/05C_major_annotation_discovery.R	107	random.seed = seed,
+scripts/05C_major_annotation_discovery.R	388	seed = seed,
+scripts/05C_major_annotation_discovery.R	408	"paste0(""seed="", seed),"
+scripts/05C_prepare_copykat_inputs.R	54	set.seed(seed)
+scripts/05C_prepare_copykat_inputs.R	72	set.seed(local_seed)
+scripts/05C_prepare_copykat_inputs.R	166	set.seed(seed + i * 1013L)
+scripts/05C_prepare_copykat_inputs.R	182	set.seed(seed + i * 1019L)
+scripts/05C_prepare_copykat_inputs.R	261	seed = seed + i * 1021L
+scripts/05C_prepare_copykat_inputs.R	305	"paste0(""seed="", seed),"
+scripts/05C_run_copykat_sample.R	122	set.seed(input$seed)
+scripts/06A_amendment_exploratory.R	8	set.seed(20260728)
+scripts/06A_amendment_smoke_test.R	3	set.seed(20260728)
+scripts/06A_preflight.R	6	set.seed(20260728)
+scripts/06A_pseudobulk_discovery.R	8	set.seed(20260728)
+scripts/06A_smoke_test.R	3	set.seed(20260728)
+scripts/06A_validate_outputs.R	6	set.seed(20260728)
+scripts/06B_finalize_report.R	7	set.seed(20260728)
+scripts/06B_liana_donor_communication.R	8	set.seed(20260728)
+scripts/06B_liana_donor_communication.R	66	"set.seed(as.integer(p_num(""random_seed"")))"
+scripts/06B_preflight.R	7	set.seed(20260728)
+scripts/06B_real_data_pilot.R	7	set.seed(20260728)
+scripts/06B_real_data_pilot.R	52	set.seed(20260728 + match(group, sort(names(split_index))))
+scripts/06B_regulator_pathway.R	8	set.seed(20260728)
+scripts/06B_regulator_pathway.R	68	"set.seed(as.integer(p_num(""random_seed"")))"
+scripts/06B_trajectory_tradeSeq.R	8	set.seed(20260728)
+scripts/06B_trajectory_tradeSeq.R	66	"set.seed(as.integer(p_num(""random_seed"")))"
+scripts/06B_trajectory_tradeSeq.R	136	"set.seed(as.integer(p_num(""random_seed"")) + match(group_name, sort(names(split_index))))"
+scripts/07_acceptance_qc.R	6	set.seed(20260728)
+scripts/07_finalize_report.R	3	set.seed(20260728)
+scripts/07_install_dependencies.R	3	set.seed(20260728)
+scripts/07_model_preflight.R	6	set.seed(20260728)
+scripts/07_preflight.R	3	set.seed(20260728)
+scripts/07_prepare_GSE132465.R	3	set.seed(20260728)
+scripts/07_prepare_GSE132465.R	209	seed = stage7_seed
+scripts/07_prepare_GSE161277.R	3	set.seed(20260728)
+scripts/07_prepare_GSE161277.R	212	obj <- FindClusters(obj, resolution = resolution, random.seed = stage7_seed, verbose = FALSE)
+scripts/07_prepare_GSE161277.R	295	seed = stage7_seed,
+scripts/07_real_data_pilot.R	3	set.seed(20260728)
+scripts/07_resume_GSE161277_figures.R	6	set.seed(20260728)
+scripts/07_run_replication_models.R	3	set.seed(20260728)
+scripts/07_smoke_test.R	3	set.seed(20260728)
+scripts/07_validate_outputs.R	3	set.seed(20260728)
+scripts/08A_finalize_report.R	2	set.seed(20260728)
+scripts/08A_GSE100179_preprocess.R	2	set.seed(20260728)
+scripts/08A_GSE41657_preprocess.R	2	set.seed(20260728)
+scripts/08A_GSE8671_preprocess.R	2	set.seed(20260728)
+scripts/08B_bulk_cohorts.R	8	set.seed(20260729)
+scripts/08B_meta_gate_report.R	8	set.seed(20260729)
+scripts/08B_tcga_auxiliary.R	8	set.seed(20260729)
+scripts/08B_tcga_auxiliary.R	138	nPerm = 1000, seed = 20260729, FDR = 0.05,
+scripts/09A_stool_feasibility.R	3	set.seed(20260729)
+scripts/09A_stool_feasibility.R	99	seed = 20260729L
+scripts/09B_train_lock_model.R	3	set.seed(42)
+scripts/09B_train_lock_model.R	49	set.seed(seed)
+scripts/09B_train_lock_model.R	125	set.seed(seed)
+scripts/09B_train_lock_model.R	591	random_seed = 42L,
+scripts/09C_test_once.R	8	set.seed(42)
+scripts/09C_test_once.R	122	set.seed(seed)
+scripts/09C_test_once.R	327	seed = 42L
+scripts/10C2_SP_finalize_gate.py	19	SEED = 20260731
+scripts/10C3_qc_annotation.R	28	set.seed(42)
+scripts/10C3_qc_annotation.R	97	run_clusters <- function(counts, resolution = 0.4, seed = 42L) {
+scripts/10C3_qc_annotation.R	107	set.seed(seed)
+scripts/10C3_qc_annotation.R	111	obj <- FindClusters(obj, resolution = resolution, random.seed = seed, verbose = FALSE)
+scripts/10C3_qc_annotation.R	164	epi_cl <- run_clusters(epi_counts, resolution = 0.35, seed = seed + 1000L)
+scripts/10C3_qc_annotation.R	192	set.seed(42L + sample_index)
+scripts/10C3_qc_annotation.R	198	clusters <- run_clusters(selected, resolution = 0.4, seed = 42L + sample_index)
+scripts/10C3_score_locked_m02.R	24	set.seed(42)
+scripts/10C_fap_confounding.R	8	set.seed(20260731)
+scripts/10D_TECH_pseudospot_validation.R	62	set.seed(seed)
+scripts/10D_TECH_pseudospot_validation.R	206	set.seed(seed)
+scripts/10D_TECH_pseudospot_validation.R	454	set.seed(seed + 22L)
+scripts/10D_TECH_pseudospot_validation.R	517	set.seed(seed + 1000L)
+scripts/10E_DESC_case4_descriptive.R	34	"set.seed(as.integer(get_param(""seed"")))"
+scripts/10E_DESC_case4_descriptive.R	353	"seed = get_param(""seed""), biological_patient_n = 1L, stage10f_started = FALSE, stage10g_started = FALSE"
+scripts/10E_spatial_blind_qc.R	34	set.seed(20260731L)
+scripts/10I_red_team_recompute.R	9	set.seed(42)
+scripts/10I_red_team_recompute.R	296	"""seed=42"", ""execution=Rscript --vanilla"", ""historical_outputs_modified=FALSE"","

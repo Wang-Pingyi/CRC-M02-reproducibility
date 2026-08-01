@@ -1,0 +1,26 @@
+{
+  "title": "CRC M02 cross-dataset transcriptomic reproducibility package",
+  "upload_type": "software",
+  "description": "Code, configuration, provenance records and small source-data tables for an exploratory cross-dataset evaluation of a locked FAP/adenoma-associated epithelial stem/progenitor transcriptional module. The package preserves the negative prespecified analysis and explicit negative, skipped and not-estimable outcomes.",
+  "creators": [
+    {"name": "Zhao, Yidi"},
+    {"name": "Jia, Yunfei"},
+    {"name": "Liao, Hehe"},
+    {"name": "Ma, Yujie"},
+    {"name": "Zhang, Zifei"},
+    {"name": "Zheng, Yao"},
+    {"name": "Zhang, Jianan"},
+    {"name": "Xie, Haidie"},
+    {"name": "Wang, Pingyi", "orcid": "0009-0008-3831-9013", "affiliation": "Xizang Minzu University"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "colorectal adenoma",
+    "single-cell RNA sequencing",
+    "pseudobulk",
+    "transcriptomics",
+    "familial adenomatous polyposis",
+    "reproducibility"
+  ],
+  "access_right": "open"
+}

@@ -1,0 +1,9 @@
+component	version
+R	R version 4.3.2 (2023-10-31)
+SeuratObject	5.0.1
+Matrix	1.6.5
+edgeR	4.0.2
+limma	3.58.1
+data.table	1.16.0
+random_seed	20260731
+git_commit	43e2d87aaf5f48c0de17837d3787214ebab60f46

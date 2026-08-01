@@ -1,0 +1,253 @@
+cohort_or_context	canonical_gene	gene_order	mapping_status	mapped_feature	mapping_source	cohort_common	notes
+CANONICAL_M02	ABCA13	1	canonical_identity	ABCA13	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	AC016831.7	2	canonical_identity	AC016831.7	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	ADAMTSL2	3	canonical_identity	ADAMTSL2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	AL022068.1	4	canonical_identity	AL022068.1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	AP001636.3	5	canonical_identity	AP001636.3	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	APCDD1	6	canonical_identity	APCDD1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	ARID3A	7	canonical_identity	ARID3A	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	ASCL2	8	canonical_identity	ASCL2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	AXIN2	9	canonical_identity	AXIN2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	BACE2	10	canonical_identity	BACE2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	CEMIP	11	canonical_identity	CEMIP	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	CTNNA2	12	canonical_identity	CTNNA2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	DACH1	13	canonical_identity	DACH1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	GALNT6	14	canonical_identity	GALNT6	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	GNGT1	15	canonical_identity	GNGT1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	GRIN2B	16	canonical_identity	GRIN2B	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	GRM8	17	canonical_identity	GRM8	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	INPP5D	18	canonical_identity	INPP5D	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	ITGA9	19	canonical_identity	ITGA9	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	ITPR2	20	canonical_identity	ITPR2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	KCTD16	21	canonical_identity	KCTD16	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	KLF7	22	canonical_identity	KLF7	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	LINC01605	23	canonical_identity	LINC01605	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	LINC01748	24	canonical_identity	LINC01748	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	LMCD1-AS1	25	canonical_identity	LMCD1-AS1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	NKD1	26	canonical_identity	NKD1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	PARP8	27	canonical_identity	PARP8	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	PTK7	28	canonical_identity	PTK7	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	RNF43	29	canonical_identity	RNF43	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	SNTB1	30	canonical_identity	SNTB1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	SPATA6L	31	canonical_identity	SPATA6L	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	TBX3	32	canonical_identity	TBX3	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	TBXAS1	33	canonical_identity	TBXAS1	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	TRAF5	34	canonical_identity	TRAF5	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	TSPAN5	35	canonical_identity	TSPAN5	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+CANONICAL_M02	VWA2	36	canonical_identity	VWA2	STAGE10C_LOCK_MANIFEST.tsv	TRUE	weight=0.0277777777777778; bundle=d4e34472243b0259650aca3123a5df7e767e9a408a409cef08861937f2360a30
+E-GEAD-622	ABCA13	1	exact_symbol	ENSG00000179869	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	AC016831.7	2	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	ADAMTSL2	3	exact_symbol	ENSG00000197859	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	AL022068.1	4	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	AP001636.3	5	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	APCDD1	6	exact_symbol	ENSG00000154856	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	ARID3A	7	exact_symbol	ENSG00000116017	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	ASCL2	8	exact_symbol	ENSG00000183734	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	AXIN2	9	exact_symbol	ENSG00000168646	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	BACE2	10	exact_symbol	ENSG00000182240	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	CEMIP	11	exact_symbol	ENSG00000103888	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	CTNNA2	12	exact_symbol	ENSG00000066032	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	DACH1	13	exact_symbol	ENSG00000276644	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	GALNT6	14	exact_symbol	ENSG00000139629	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	GNGT1	15	exact_symbol	ENSG00000127928	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	GRIN2B	16	exact_symbol	ENSG00000273079	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	GRM8	17	exact_symbol	ENSG00000179603	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	INPP5D	18	exact_symbol	ENSG00000168918	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	ITGA9	19	exact_symbol	ENSG00000144668	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	ITPR2	20	exact_symbol	ENSG00000123104	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	KCTD16	21	exact_symbol	ENSG00000183775	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	KLF7	22	exact_symbol	ENSG00000118263	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	LINC01605	23	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	LINC01748	24	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	LMCD1-AS1	25	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	NKD1	26	exact_symbol	ENSG00000140807	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	PARP8	27	exact_symbol	ENSG00000151883	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	PTK7	28	exact_symbol	ENSG00000112655	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	RNF43	29	exact_symbol	ENSG00000108375	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	SNTB1	30	exact_symbol	ENSG00000172164	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	SPATA6L	31	exact_symbol	ENSG00000106686	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	TBX3	32	exact_symbol	ENSG00000135111	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	TBXAS1	33	exact_symbol	ENSG00000059377	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	TRAF5	34	exact_symbol	ENSG00000082512	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	TSPAN5	35	exact_symbol	ENSG00000168785	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-622	VWA2	36	exact_symbol	ENSG00000165816	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ABCA13	1	exact_ensembl	ENSG00000179869	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	AC016831.7	2	one_to_one_archived_alias	ENSG00000233559	Ensembl_GRCh37_archive_symbol_record	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ADAMTSL2	3	exact_ensembl	ENSG00000197859	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	AL022068.1	4	one_to_one_archived_alias	ENSG00000228412	archived_Ensembl_symbol_evidence	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	AP001636.3	5	one_to_one_archived_alias	ENSG00000255240	archived_Ensembl_symbol_evidence	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	APCDD1	6	exact_ensembl	ENSG00000154856	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ARID3A	7	exact_ensembl	ENSG00000116017	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ASCL2	8	exact_ensembl	ENSG00000183734	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	AXIN2	9	exact_ensembl	ENSG00000168646	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	BACE2	10	exact_ensembl	ENSG00000182240	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	CEMIP	11	exact_ensembl	ENSG00000103888	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	CTNNA2	12	exact_ensembl	ENSG00000066032	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	DACH1	13	exact_ensembl	ENSG00000276644	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	GALNT6	14	exact_ensembl	ENSG00000139629	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	GNGT1	15	exact_ensembl	ENSG00000127928	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	GRIN2B	16	exact_ensembl	ENSG00000273079	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	GRM8	17	exact_ensembl	ENSG00000179603	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	INPP5D	18	exact_ensembl	ENSG00000168918	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ITGA9	19	exact_ensembl	ENSG00000144668	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	ITPR2	20	exact_ensembl	ENSG00000123104	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	KCTD16	21	exact_ensembl	ENSG00000183775	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	KLF7	22	exact_ensembl	ENSG00000118263	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	LINC01605	23	exact_ensembl	ENSG00000253161	NCBI_Gene_100507420_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	LINC01748	24	exact_ensembl	ENSG00000226476	NCBI_Gene_105378763_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	LMCD1-AS1	25	exact_ensembl	ENSG00000227110	NCBI_Gene_100288428_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	NKD1	26	exact_ensembl	ENSG00000140807	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	PARP8	27	exact_ensembl	ENSG00000151883	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	PTK7	28	exact_ensembl	ENSG00000112655	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	RNF43	29	exact_ensembl	ENSG00000108375	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	SNTB1	30	exact_ensembl	ENSG00000172164	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	SPATA6L	31	exact_ensembl	ENSG00000106686	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	TBX3	32	exact_ensembl	ENSG00000135111	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	TBXAS1	33	exact_ensembl	ENSG00000059377	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	TRAF5	34	exact_ensembl	ENSG00000082512	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	TSPAN5	35	exact_ensembl	ENSG00000168785	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-619	VWA2	36	exact_ensembl	ENSG00000165816	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ABCA13	1	exact_ensembl	ENSG00000179869	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	AC016831.7	2	one_to_one_archived_alias	ENSG00000233559	Ensembl_GRCh37_archive_symbol_record	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ADAMTSL2	3	exact_ensembl	ENSG00000197859	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	AL022068.1	4	one_to_one_archived_alias	ENSG00000228412	archived_Ensembl_symbol_evidence	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	AP001636.3	5	one_to_one_archived_alias	ENSG00000255240	archived_Ensembl_symbol_evidence	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	APCDD1	6	exact_ensembl	ENSG00000154856	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ARID3A	7	exact_ensembl	ENSG00000116017	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ASCL2	8	exact_ensembl	ENSG00000183734	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	AXIN2	9	exact_ensembl	ENSG00000168646	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	BACE2	10	exact_ensembl	ENSG00000182240	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	CEMIP	11	exact_ensembl	ENSG00000103888	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	CTNNA2	12	exact_ensembl	ENSG00000066032	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	DACH1	13	exact_ensembl	ENSG00000276644	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	GALNT6	14	exact_ensembl	ENSG00000139629	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	GNGT1	15	exact_ensembl	ENSG00000127928	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	GRIN2B	16	exact_ensembl	ENSG00000273079	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	GRM8	17	exact_ensembl	ENSG00000179603	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	INPP5D	18	exact_ensembl	ENSG00000168918	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ITGA9	19	exact_ensembl	ENSG00000144668	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	ITPR2	20	exact_ensembl	ENSG00000123104	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	KCTD16	21	exact_ensembl	ENSG00000183775	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	KLF7	22	exact_ensembl	ENSG00000118263	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	LINC01605	23	exact_ensembl	ENSG00000253161	NCBI_Gene_100507420_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	LINC01748	24	exact_ensembl	ENSG00000226476	NCBI_Gene_105378763_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	LMCD1-AS1	25	exact_ensembl	ENSG00000227110	NCBI_Gene_100288428_current_cross_reference	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	NKD1	26	exact_ensembl	ENSG00000140807	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	PARP8	27	exact_ensembl	ENSG00000151883	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	PTK7	28	exact_ensembl	ENSG00000112655	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	RNF43	29	exact_ensembl	ENSG00000108375	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	SNTB1	30	exact_ensembl	ENSG00000172164	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	SPATA6L	31	exact_ensembl	ENSG00000106686	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	TBX3	32	exact_ensembl	ENSG00000135111	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	TBXAS1	33	exact_ensembl	ENSG00000059377	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	TRAF5	34	exact_ensembl	ENSG00000082512	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	TSPAN5	35	exact_ensembl	ENSG00000168785	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+E-GEAD-579	VWA2	36	exact_ensembl	ENSG00000165816	deposited_E-GEAD-622_GRCh38_2020-A_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ABCA13	1	exact_symbol	ENSG00000179869	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	AC016831.7	2	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ADAMTSL2	3	exact_symbol	ENSG00000197859	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	AL022068.1	4	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	AP001636.3	5	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	APCDD1	6	exact_symbol	ENSG00000154856	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ARID3A	7	exact_symbol	ENSG00000116017	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ASCL2	8	exact_symbol	ENSG00000183734	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	AXIN2	9	exact_symbol	ENSG00000168646	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	BACE2	10	exact_symbol	ENSG00000182240	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	CEMIP	11	exact_symbol	ENSG00000103888	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	CTNNA2	12	exact_symbol	ENSG00000066032	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	DACH1	13	exact_symbol	ENSG00000276644	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	GALNT6	14	exact_symbol	ENSG00000139629	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	GNGT1	15	exact_symbol	ENSG00000127928	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	GRIN2B	16	exact_symbol	ENSG00000273079	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	GRM8	17	exact_symbol	ENSG00000179603	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	INPP5D	18	exact_symbol	ENSG00000168918	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ITGA9	19	exact_symbol	ENSG00000144668	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	ITPR2	20	exact_symbol	ENSG00000123104	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	KCTD16	21	exact_symbol	ENSG00000183775	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	KLF7	22	exact_symbol	ENSG00000118263	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	LINC01605	23	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	LINC01748	24	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	LMCD1-AS1	25	absent_from_feature_space	NA	deposited_10x_feature_annotation	FALSE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	NKD1	26	exact_symbol	ENSG00000140807	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	PARP8	27	exact_symbol	ENSG00000151883	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	PTK7	28	exact_symbol	ENSG00000112655	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	RNF43	29	exact_symbol	ENSG00000108375	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	SNTB1	30	exact_symbol	ENSG00000172164	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	SPATA6L	31	exact_symbol	ENSG00000106686	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	TBX3	32	exact_symbol	ENSG00000135111	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	TBXAS1	33	exact_symbol	ENSG00000059377	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	TRAF5	34	exact_symbol	ENSG00000082512	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	TSPAN5	35	exact_symbol	ENSG00000168785	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+GSE226997	VWA2	36	exact_symbol	ENSG00000165816	deposited_10x_feature_annotation	TRUE	No proxy/substitute gene; stable-ID versions stripped only for exact matching.
+Figshare_29925404	ABCA13	1	mapped_in_integer_counts	ABCA13	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	AC016831.7	2	mapped_in_integer_counts	AC016831.7	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	ADAMTSL2	3	mapped_in_integer_counts	ADAMTSL2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	AL022068.1	4	absent_from_feature_space	NA	STAGE10C3_POSTLOCK_ADDENDUM.md	FALSE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	AP001636.3	5	absent_from_feature_space	NA	STAGE10C3_POSTLOCK_ADDENDUM.md	FALSE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	APCDD1	6	mapped_in_integer_counts	APCDD1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	ARID3A	7	mapped_in_integer_counts	ARID3A	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	ASCL2	8	mapped_in_integer_counts	ASCL2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	AXIN2	9	mapped_in_integer_counts	AXIN2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	BACE2	10	mapped_in_integer_counts	BACE2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	CEMIP	11	mapped_in_integer_counts	CEMIP	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	CTNNA2	12	mapped_in_integer_counts	CTNNA2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	DACH1	13	mapped_in_integer_counts	DACH1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	GALNT6	14	mapped_in_integer_counts	GALNT6	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	GNGT1	15	mapped_in_integer_counts	GNGT1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	GRIN2B	16	mapped_in_integer_counts	GRIN2B	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	GRM8	17	mapped_in_integer_counts	GRM8	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	INPP5D	18	mapped_in_integer_counts	INPP5D	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	ITGA9	19	mapped_in_integer_counts	ITGA9	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	ITPR2	20	mapped_in_integer_counts	ITPR2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	KCTD16	21	mapped_in_integer_counts	KCTD16	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	KLF7	22	mapped_in_integer_counts	KLF7	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	LINC01605	23	mapped_in_integer_counts	LINC01605	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	LINC01748	24	absent_from_feature_space	NA	STAGE10C3_POSTLOCK_ADDENDUM.md	FALSE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	LMCD1-AS1	25	mapped_in_integer_counts	LMCD1-AS1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	NKD1	26	mapped_in_integer_counts	NKD1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	PARP8	27	mapped_in_integer_counts	PARP8	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	PTK7	28	mapped_in_integer_counts	PTK7	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	RNF43	29	mapped_in_integer_counts	RNF43	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	SNTB1	30	mapped_in_integer_counts	SNTB1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	SPATA6L	31	mapped_in_integer_counts	SPATA6L	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	TBX3	32	mapped_in_integer_counts	TBX3	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	TBXAS1	33	mapped_in_integer_counts	TBXAS1	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	TRAF5	34	mapped_in_integer_counts	TRAF5	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	TSPAN5	35	mapped_in_integer_counts	TSPAN5	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+Figshare_29925404	VWA2	36	mapped_in_integer_counts	VWA2	STAGE10C3_POSTLOCK_ADDENDUM.md	TRUE	Primary 36/36 remained NOT_ESTIMABLE; mapped set was sensitivity only.
+GSE99573_stool	ABCA13	1	mapped	TC07000308.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	AC016831.7	2	missing_probe	NA	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=missing_probe; training-only expression audit
+GSE99573_stool	ADAMTSL2	3	mapped	TC09000777.hg.1;TC9_gl000201_random000001.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	AL022068.1	4	missing_probe	NA	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=missing_probe; training-only expression audit
+GSE99573_stool	AP001636.3	5	missing_probe	NA	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=missing_probe; training-only expression audit
+GSE99573_stool	APCDD1	6	mapped	TC18000051.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	ARID3A	7	mapped	TC19000023.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	ASCL2	8	mapped	TC11001277.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	AXIN2	9	mapped	TC17002855.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	BACE2	10	mapped	TC21000185.hg.1;TC21000736.hg.1;TC21000737.hg.1;TC21000738.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	CEMIP	11	mapped	TC15000752.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	CTNNA2	12	mapped	TC02000489.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	DACH1	13	mapped	TC13000722.hg.1;TC13001567.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	GALNT6	14	mapped	TC12001509.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	GNGT1	15	mapped	TC07000553.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=low_expression; training-only expression audit
+GSE99573_stool	GRIN2B	16	mapped	TC12001265.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	GRM8	17	mapped	TC07001833.hg.1;TC07003151.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	INPP5D	18	mapped	TC02001414.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	ITGA9	19	mapped	TC03000181.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	ITPR2	20	mapped	TC12001328.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=low_expression; training-only expression audit
+GSE99573_stool	KCTD16	21	mapped	TC05000791.hg.1;TC05002678.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	KLF7	22	mapped	TC02002705.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	LINC01605	23	missing_probe	NA	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=missing_probe; training-only expression audit
+GSE99573_stool	LINC01748	24	missing_probe	NA	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=missing_probe; training-only expression audit
+GSE99573_stool	LMCD1-AS1	25	mapped	TC03001140.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	NKD1	26	mapped	TC16000440.hg.1;TC16001546.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	PARP8	27	mapped	TC05000209.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=low_expression; training-only expression audit
+GSE99573_stool	PTK7	28	mapped	TC06000595.hg.1;TC06003652.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	RNF43	29	mapped	TC17001732.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	SNTB1	30	mapped	TC08001565.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	SPATA6L	31	mapped	TC09000883.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	TBX3	32	mapped	TC12002000.hg.1;TC12003096.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	TBXAS1	33	mapped	TC07000877.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	TRAF5	34	mapped	TC01001758.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=low_expression; training-only expression audit
+GSE99573_stool	TSPAN5	35	mapped	TC04001402.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit
+GSE99573_stool	VWA2	36	mapped	TC10000832.hg.1	stage_9A_locked_gene_probe_mapping.tsv	NA	detectability=detectable; training-only expression audit

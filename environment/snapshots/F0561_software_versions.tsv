@@ -1,0 +1,7 @@
+software	version
+R	R version 4.3.2 (2023-10-31)
+SeuratObject	5.0.1
+Matrix	1.6.5
+edgeR	4.0.2
+limma	3.58.1
+ggplot2	3.4.4

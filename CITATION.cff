@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code or source-data package, please cite the associated article and archived software release."
+title: "CRC M02 cross-dataset transcriptomic reproducibility package"
+type: software
+version: 1.0.0
+date-released: 2026-08-01
+repository-code: "https://github.com/Wang-Pingyi/CRC-M02-reproducibility"
+license: MIT
+authors:
+  - family-names: Zhao
+    given-names: Yidi
+  - family-names: Jia
+    given-names: Yunfei
+  - family-names: Liao
+    given-names: Hehe
+  - family-names: Ma
+    given-names: Yujie
+  - family-names: Zhang
+    given-names: Zifei
+  - family-names: Zheng
+    given-names: Yao
+  - family-names: Zhang
+    given-names: Jianan
+  - family-names: Xie
+    given-names: Haidie
+  - family-names: Wang
+    given-names: Pingyi
+    orcid: "https://orcid.org/0009-0008-3831-9013"
+    email: "wangpingyi@xzmu.edu.cn"
+keywords:
+  - colorectal adenoma
+  - single-cell RNA sequencing
+  - pseudobulk
+  - transcriptomics
+  - familial adenomatous polyposis
+  - reproducibility
+abstract: >-
+  Code, configuration, provenance records and small source-data tables for an
+  exploratory cross-dataset evaluation of a locked FAP/adenoma-associated
+  epithelial stem/progenitor transcriptional module. The package preserves the
+  negative prespecified analysis and explicit negative, skipped and
+  not-estimable outcomes.

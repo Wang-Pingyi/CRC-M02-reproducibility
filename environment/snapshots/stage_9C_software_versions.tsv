@@ -1,0 +1,9 @@
+package	version
+R	4.3.2
+oligo	1.66.0
+pd.hta.2.0	3.12.2
+Biobase	2.62.0
+matrixStats	1.2.0
+pROC	1.18.5
+ggplot2	3.4.4
+digest	0.6.33
